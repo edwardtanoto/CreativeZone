@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://edwardtanoto:edward_2001@devmedia-ohp2n.mongodb.net/test?retryWrites=true",
+    "jwtSecret" : "edward2001",
+    "githubClientId" : "f2a6210bf9471ffd0660",
+    "githubSecret" : "a127572288fc2cacbac1000131b508569cfe0e5b"
+}
