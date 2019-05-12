@@ -9,7 +9,6 @@ import ProfileEducation from './ProfileEducation'
 import ProfileGithub from './ProfileGithub'
 import ProfileAbout from './ProfileAbout.js'
 import {getProfileById} from '../../actions/profile'
-import { userInfo } from 'os';
 
 const Profile = ({getProfileById,profile:{profile,loading},auth,match}) => {
     useEffect(() => {
