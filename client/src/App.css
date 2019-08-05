@@ -118,7 +118,7 @@ img {
 }
 .my-1 {
   margin: 1rem 0;
-  white-space: pre-line;
+  white-space: pre-wrap;
 }
 .my-2 {
   margin: 2rem 0;
