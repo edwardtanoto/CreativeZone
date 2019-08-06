@@ -3,8 +3,6 @@ import PropTypes from 'prop-types'
 import {connect} from 'react-redux'
 import {addPost} from '../../actions/post'
 
-import ReactQuill from 'react-quill'
-
 const PostForm = ({addPost}) => {
     const [text,setText] = useState('')
   return (
